@@ -15,7 +15,7 @@
 
     <properties>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <slf4j-api.version>1.7.28</slf4j-api.version>
+        <slf4j-api.version>1.7.32</slf4j-api.version>
         <lombok.version>1.18.10</lombok.version>
         <junit.version>4.12</junit.version>
         <mockito-core.version>3.0.0</mockito-core.version>
